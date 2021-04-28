@@ -1,0 +1,156 @@
+.header {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 0 !important;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Avenir Next';
+}
+
+.navbar {
+    font-size: 0.875em;
+    margin-bottom: 0px;
+    background-color: #0a2c35;
+    border-radius: 0;
+    height: 80px;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+
+a {
+    color: #f2f2e1;
+}
+
+a:hover {
+    color: #f7ca70;
+}
+
+.navbar-nav li a:hover {
+    background-color: transparent;
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+    font-weight: bolder;
+    font-family: 'Bolognaise';
+    color: #f2f2e1;
+    font-weight: 100;
+    letter-spacing: 2px;
+    padding-left: 90px;
+    padding-top: 30px;
+}
+
+.navlinks {
+    padding-right: 270px;
+    padding-top: 15px;
+}
+
+.headerbg {
+    background-image: url(images/headerbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 570px;
+}
+
+.headerbtn {
+    padding-top: 460px;
+}
+
+.aboutbg {
+    background-color: #0a2c35;
+    height: 600px;
+}
+
+.aboutbg h2 {
+    font-family: 'Bolognaise';
+    color: #f7ca70;
+    font-size: 87px;
+}
+
+.aboutbg p {
+    width: 500px;
+    color: #f2f2e1;
+    font-family: 'Avenir Next';
+    text-align: center;
+}
+
+.abouttext {
+    padding-left: 140px;
+    padding-top: 145px;
+}
+
+.aboutimg {
+    padding-top: 40px;
+    float:right;
+    padding-right:50px;
+}
+
+.quotebg {
+    background-image: url(images/quotebg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    opacity:1;
+}
+
+.quote {
+    padding-top: 60px;
+}
+
+.text1 {
+    font-family: 'Grand Hotel';
+    color: #f2f2e1;
+    font-size: 80px;
+}
+
+.text2 {
+    font-family: 'Grand Hotel';
+    color: #f2f2e1;
+    font-size: 80px;
+    padding-left: 60px;
+}
+
+.text3 {
+    color: #f2f2e1;
+    font-size: 15px;
+    padding-left: 470px;
+    font-weight: 100;
+}
+
+.btnabout {
+    border-radius: 10.6px;
+    color: #f2f2e1;
+    background-color: transparent;
+    border: 1px solid;
+    font-weight: bolder;
+    font-family: 'Avenir Next';
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 147px;
+    margin-top: 30px;
+}
+
+.btnhome {
+    border-radius: 10.6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bolder;
+    font-family: 'Avenir Next';
+    color: #f2f2e1;
+    background-color: #0a2c35;
+    border: 1px solid;
+    border-color: #f3f2e1;
+    font-size: 24px;
+    float: right;
+
+}
+
+.alttext {
+    font-family: 'Bolognaise';
+    color: #f7ca70;
+}
